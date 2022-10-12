@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Explora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Playfair+Display:ital,wght@1,600&display=swap');
 :root{
 	--green:#DA6EB2;
 }
 
 *{
-	font-family: 'Explora', cursive;
+	font-family: 'Fleur De Leah', cursive;
+	font-family: 'Playfair Display', serif;
 	margin: 0; padding:0;
 	box-sizing: border-box;
 	outline: none;
