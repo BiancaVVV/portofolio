@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Playfair+Display:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 :root{
 	--green:#DA6EB2;
 }
 
 *{
-	font-family: 'Fleur De Leah', cursive;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Roboto', sans-serif;
 	margin: 0; padding:0;
 	box-sizing: border-box;
 	outline: none;
